@@ -1,0 +1,7 @@
+{
+  "name": "STEPSTYLE — Engineered Footwear & Daily Apparel",
+  "description": "Architectural footwear and disciplined daily apparel. Bridging contemporary design with high-performance modern comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
